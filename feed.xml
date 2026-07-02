@@ -15,12 +15,12 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>Governed Autonomy Is Becoming the Frontier AI Stack</title>
-      <description>Today’s episode covers Anthropic’s Sonnet 5, Claude Science, and Fable/Mythos access shift; Google, GitHub, and Cursor’s move toward governed agent runtimes; operator patterns from Every and Latent Space; and the inference-economics layer highlighted by SemiAnalysis, Sequoia Training Data, Air Street Press, and Braintrust. The through-line is that the next six months of AI systems may be defined less by standalone chatbot scores and more by cost-controlled, permissioned, eval-driven workflow loops.</description>
-      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-02.mp3" length="11439220" type="audio/mpeg"/>
+      <title>Model Routing Becomes the Frontier AI Control Plane</title>
+      <description>Today’s Six-Month Signal covers Anthropic Sonnet 5 and Fable/Mythos access, GitHub Copilot’s model-routing and budget controls, Fullstack Code Arena, Google ADK and Genkit agent workflows, Latent Space’s skill-engineering interview with Paul Bakaus, and inference-economics analysis from Training Data with Dylan Patel, Air Street, and SemiAnalysis. The through-line: frontier AI is becoming a managed execution environment, not just a leaderboard race.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-02.mp3" length="12761278" type="audio/mpeg"/>
       <guid isPermaLink="false">sms-2026-07-02</guid>
-      <pubDate>Thu, 02 Jul 2026 11:53:27 +0100</pubDate>
-      <itunes:duration>00:13:37</itunes:duration>
+      <pubDate>Thu, 02 Jul 2026 21:15:19 +0100</pubDate>
+      <itunes:duration>00:15:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
