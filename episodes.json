@@ -1,1 +1,11 @@
-[]
+[
+ {
+  "guid": "sms-2026-07-02",
+  "title": "TEST episode - will be removed",
+  "description": "Synthetic pipeline test. Not a real episode.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-02.mp3",
+  "bytes": 1051107,
+  "duration_sec": 75,
+  "published_at": "2026-07-02T11:03:55+01:00"
+ }
+]

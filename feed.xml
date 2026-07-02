@@ -14,6 +14,14 @@
     <itunes:image href="https://isaac0314.github.io/six-month-signal/artwork.png"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-
+    <item>
+      <title>TEST episode - will be removed</title>
+      <description>Synthetic pipeline test. Not a real episode.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-02.mp3" length="1051107" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-07-02</guid>
+      <pubDate>Thu, 02 Jul 2026 11:03:55 +0100</pubDate>
+      <itunes:duration>00:01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
