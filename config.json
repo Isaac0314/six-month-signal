@@ -1,0 +1,14 @@
+{
+  "title": "The Six-Month Signal",
+  "description": "A daily analyst brief answering one question: what will frontier AI models and systems look like in the next six months? Model releases and capability deltas, evals and benchmark anomalies, agent reliability, and inference economics - in about ten minutes, every weekday.",
+  "link": "https://isaac0314.github.io/six-month-signal/",
+  "feed_url": "https://isaac0314.github.io/six-month-signal/feed.xml",
+  "artwork_url": "https://isaac0314.github.io/six-month-signal/artwork.png",
+  "author": "Isaac Luo",
+  "owner_email": "isaacluo0314@gmail.com",
+  "language": "en",
+  "category": "Technology",
+  "explicit": false,
+  "episode_asset_base": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/",
+  "max_feed_items": 100
+}
