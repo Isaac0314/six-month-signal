@@ -1,1 +1,11 @@
-[]
+[
+ {
+  "guid": "sms-2026-07-02",
+  "title": "Governed Autonomy Is Becoming the Frontier AI Stack",
+  "description": "Today’s episode covers Anthropic’s Sonnet 5, Claude Science, and Fable/Mythos access shift; Google, GitHub, and Cursor’s move toward governed agent runtimes; operator patterns from Every and Latent Space; and the inference-economics layer highlighted by SemiAnalysis, Sequoia Training Data, Air Street Press, and Braintrust. The through-line is that the next six months of AI systems may be defined less by standalone chatbot scores and more by cost-controlled, permissioned, eval-driven workflow loops.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-02.mp3",
+  "bytes": 11439220,
+  "duration_sec": 817,
+  "published_at": "2026-07-02T11:53:27+01:00"
+ }
+]
