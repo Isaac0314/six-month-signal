@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Governed AI Becomes the Frontier Stack</title>
+      <description>Today's episode argues that the next six months of AI systems will be shaped less by raw leaderboard gains and more by governed execution: Anthropic's Fable 5 safeguards, Arena's Fullstack Code Arena, Artificial Analysis and Vals task-economics data, and Cognition/LangChain workflow launches. Sources include Anthropic, Arena, Artificial Analysis, Vals AI, Cognition, LangChain, Simon Willison, SemiAnalysis, Google, and The Information.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-03-211507.mp3" length="11518580" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-07-03</guid>
+      <pubDate>Fri, 03 Jul 2026 21:15:09 +0100</pubDate>
+      <itunes:duration>00:13:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Model Routing Becomes the Frontier AI Control Plane</title>
       <description>Today’s Six-Month Signal covers Anthropic Sonnet 5 and Fable/Mythos access, GitHub Copilot’s model-routing and budget controls, Fullstack Code Arena, Google ADK and Genkit agent workflows, Latent Space’s skill-engineering interview with Paul Bakaus, and inference-economics analysis from Training Data with Dylan Patel, Air Street, and SemiAnalysis. The through-line: frontier AI is becoming a managed execution environment, not just a leaderboard race.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-02-114125.mp3" length="12761278" type="audio/mpeg"/>

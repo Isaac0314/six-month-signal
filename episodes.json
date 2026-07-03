@@ -7,5 +7,14 @@
   "bytes": 12761278,
   "duration_sec": 911,
   "published_at": "2026-07-03T11:41:27+01:00"
+ },
+ {
+  "guid": "sms-2026-07-03",
+  "title": "Governed AI Becomes the Frontier Stack",
+  "description": "Today's episode argues that the next six months of AI systems will be shaped less by raw leaderboard gains and more by governed execution: Anthropic's Fable 5 safeguards, Arena's Fullstack Code Arena, Artificial Analysis and Vals task-economics data, and Cognition/LangChain workflow launches. Sources include Anthropic, Arena, Artificial Analysis, Vals AI, Cognition, LangChain, Simon Willison, SemiAnalysis, Google, and The Information.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-03-211507.mp3",
+  "bytes": 11518580,
+  "duration_sec": 822,
+  "published_at": "2026-07-03T21:15:09+01:00"
  }
 ]
