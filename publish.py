@@ -49,7 +49,11 @@ def main():
         print(f'ERROR: audio file missing: {src}')
         return 1
 
-    mp3 = REPO / f'{a.date}.mp3'
+    # Cache-busting name: platforms (Spotify) cache audio by URL and may never
+    # re-fetch a changed file behind an unchanged URL. Unique name per publish
+    # makes replacements propagate; superseded assets are deleted after push.
+    stamp = dt.datetime.now(LONDON).strftime('%H%M%S')
+    mp3 = REPO / f'{a.date}-{stamp}.mp3'
     if src.suffix.lower() == '.mp3':
         mp3.write_bytes(src.read_bytes())
     else:
@@ -87,6 +91,14 @@ def main():
     run(['git', '-C', str(REPO), 'commit', '-m', f'episode {a.date}'])
     run(['git', '-C', str(REPO), 'push'])
     mp3.unlink()  # asset lives on the release; keep the clone slim
+
+    # delete superseded same-date assets (old cache-busted names)
+    assets = json.loads(run(['gh', 'release', 'view', RELEASE_TAG, '--repo', GH_REPO,
+                             '--json', 'assets']).stdout)['assets']
+    for asset in assets:
+        n = asset['name']
+        if n.endswith('.mp3') and n.startswith(a.date) and n != mp3.name:
+            run(['gh', 'release', 'delete-asset', RELEASE_TAG, n, '--repo', GH_REPO, '--yes'])
 
     print(f'Published "{meta["title"]}" - {dur/60:.1f} min, {size/1e6:.1f} MB. '
           f'Feed updated ({len(episodes)} episodes).')
