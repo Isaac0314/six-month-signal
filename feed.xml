@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Guardrails Become the Agent Frontier</title>
+      <description>Today's Six-Month Signal leads with Artificial Analysis' AutomationBench-AA, which reframes SaaS-agent progress around guardrail-adjusted task completion and per-task economics. The episode also covers OpenAI's GPT-Realtime-2.1 voice-agent release, Tencent's Hy3 open MoE model, and reporting from Import AI, Simon Willison, and Every on Fable as both an AI R&amp;D automator and workflow debugger.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-07-211541.mp3" length="12150901" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-07-07</guid>
+      <pubDate>Tue, 07 Jul 2026 21:15:44 +0100</pubDate>
+      <itunes:duration>00:14:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI Becomes an Industrial System</title>
       <description>Today’s episode tracks five signals for the six-month AI frontier: Import AI on Fable’s KernelBench-Mega result, Armin Ronacher and Simon Willison on tool-call regressions, LiteLLM/LangChain/Vercel release notes on the agent control plane, Software Synthesis on modular post-training, and The Cognitive Revolution’s Liquid AI interview on device-native models. The through-line is that frontier AI is becoming an industrial system: kernels, tool contracts, control planes, adaptations, and deployment topology now matter as much as model rankings.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-06-211518.mp3" length="10484341" type="audio/mpeg"/>

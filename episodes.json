@@ -25,5 +25,14 @@
   "bytes": 10484341,
   "duration_sec": 748,
   "published_at": "2026-07-06T21:15:20+01:00"
+ },
+ {
+  "guid": "sms-2026-07-07",
+  "title": "Guardrails Become the Agent Frontier",
+  "description": "Today's Six-Month Signal leads with Artificial Analysis' AutomationBench-AA, which reframes SaaS-agent progress around guardrail-adjusted task completion and per-task economics. The episode also covers OpenAI's GPT-Realtime-2.1 voice-agent release, Tencent's Hy3 open MoE model, and reporting from Import AI, Simon Willison, and Every on Fable as both an AI R&D automator and workflow debugger.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-07-211541.mp3",
+  "bytes": 12150901,
+  "duration_sec": 867,
+  "published_at": "2026-07-07T21:15:44+01:00"
  }
 ]
