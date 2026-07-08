@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Agents Become Measurable, Governed, and Routable</title>
+      <description>Today’s episode leads on Artificial Analysis and Zapier’s AutomationBench-AA, which turns real SaaS workflow completion into a guardrail-adjusted cost benchmark. It also covers The Information’s GPT-5.6 release-governance reporting, ARC Prize’s first ARC-AGI-3 milestone, Anthropic’s Claude Code product narrative, and Tencent Hy3 as a deployability signal for open models.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-08-211502.mp3" length="7152135" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-07-08</guid>
+      <pubDate>Wed, 08 Jul 2026 21:15:04 +0100</pubDate>
+      <itunes:duration>00:14:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Guardrails Become the Agent Frontier</title>
       <description>Today's Six-Month Signal leads with Artificial Analysis' AutomationBench-AA, which reframes SaaS-agent progress around guardrail-adjusted task completion and per-task economics. The episode also covers OpenAI's GPT-Realtime-2.1 voice-agent release, Tencent's Hy3 open MoE model, and reporting from Import AI, Simon Willison, and Every on Fable as both an AI R&amp;D automator and workflow debugger.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-07-211541.mp3" length="12150901" type="audio/mpeg"/>

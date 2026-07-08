@@ -34,5 +34,14 @@
   "bytes": 12150901,
   "duration_sec": 867,
   "published_at": "2026-07-07T21:15:44+01:00"
+ },
+ {
+  "guid": "sms-2026-07-08",
+  "title": "Agents Become Measurable, Governed, and Routable",
+  "description": "Today’s episode leads on Artificial Analysis and Zapier’s AutomationBench-AA, which turns real SaaS workflow completion into a guardrail-adjusted cost benchmark. It also covers The Information’s GPT-5.6 release-governance reporting, ARC Prize’s first ARC-AGI-3 milestone, Anthropic’s Claude Code product narrative, and Tencent Hy3 as a deployability signal for open models.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-08-211502.mp3",
+  "bytes": 7152135,
+  "duration_sec": 893,
+  "published_at": "2026-07-08T21:15:04+01:00"
  }
 ]
