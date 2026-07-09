@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Feedback Ownership Becomes the Frontier AI Advantage</title>
+      <description>Today’s episode tracks why the six-month AI frontier is shifting from raw model scale to ownership of verified workflow feedback. Sources include Cursor and Artificial Analysis on Grok 4.5, Every on GPT-5.6 Sol, Epoch AI on EBR-bench, LangChain/NVIDIA on governed agent infrastructure, and The Information on enterprise SaaS consolidation.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-09-211504.mp3" length="7116191" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-07-09</guid>
+      <pubDate>Thu, 09 Jul 2026 21:15:06 +0100</pubDate>
+      <itunes:duration>00:14:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Agents Become Measurable, Governed, and Routable</title>
       <description>Today’s episode leads on Artificial Analysis and Zapier’s AutomationBench-AA, which turns real SaaS workflow completion into a guardrail-adjusted cost benchmark. It also covers The Information’s GPT-5.6 release-governance reporting, ARC Prize’s first ARC-AGI-3 milestone, Anthropic’s Claude Code product narrative, and Tencent Hy3 as a deployability signal for open models.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-08-211502.mp3" length="7152135" type="audio/mpeg"/>

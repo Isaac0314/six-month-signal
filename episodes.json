@@ -43,5 +43,14 @@
   "bytes": 7152135,
   "duration_sec": 893,
   "published_at": "2026-07-08T21:15:04+01:00"
+ },
+ {
+  "guid": "sms-2026-07-09",
+  "title": "Feedback Ownership Becomes the Frontier AI Advantage",
+  "description": "Today’s episode tracks why the six-month AI frontier is shifting from raw model scale to ownership of verified workflow feedback. Sources include Cursor and Artificial Analysis on Grok 4.5, Every on GPT-5.6 Sol, Epoch AI on EBR-bench, LangChain/NVIDIA on governed agent infrastructure, and The Information on enterprise SaaS consolidation.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-09-211504.mp3",
+  "bytes": 7116191,
+  "duration_sec": 889,
+  "published_at": "2026-07-09T21:15:06+01:00"
  }
 ]
