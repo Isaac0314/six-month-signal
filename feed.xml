@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Governed Work Loops Become the Frontier AI Runtime</title>
+      <description>OpenAI's GPT-5.6 release, ChatGPT Work, and new runtime primitives point to frontier AI becoming a governed work environment rather than just a model leaderboard. This episode also covers Artificial Analysis' EnterpriseOps-Gym-AA benchmark, Every's GPT-5.6 knowledge-work loop essay, METR's Anthropic researcher-uplift note, and Meta's Muse Spark 1.1 pricing response.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-10-211530.mp3" length="7158195" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-07-10</guid>
+      <pubDate>Fri, 10 Jul 2026 21:15:32 +0100</pubDate>
+      <itunes:duration>00:14:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Feedback Ownership Becomes the Frontier AI Advantage</title>
       <description>Today’s episode tracks why the six-month AI frontier is shifting from raw model scale to ownership of verified workflow feedback. Sources include Cursor and Artificial Analysis on Grok 4.5, Every on GPT-5.6 Sol, Epoch AI on EBR-bench, LangChain/NVIDIA on governed agent infrastructure, and The Information on enterprise SaaS consolidation.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-09-211504.mp3" length="7116191" type="audio/mpeg"/>

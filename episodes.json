@@ -52,5 +52,14 @@
   "bytes": 7116191,
   "duration_sec": 889,
   "published_at": "2026-07-09T21:15:06+01:00"
+ },
+ {
+  "guid": "sms-2026-07-10",
+  "title": "Governed Work Loops Become the Frontier AI Runtime",
+  "description": "OpenAI's GPT-5.6 release, ChatGPT Work, and new runtime primitives point to frontier AI becoming a governed work environment rather than just a model leaderboard. This episode also covers Artificial Analysis' EnterpriseOps-Gym-AA benchmark, Every's GPT-5.6 knowledge-work loop essay, METR's Anthropic researcher-uplift note, and Meta's Muse Spark 1.1 pricing response.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-10-211530.mp3",
+  "bytes": 7158195,
+  "duration_sec": 894,
+  "published_at": "2026-07-10T21:15:32+01:00"
  }
 ]
