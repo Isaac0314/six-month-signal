@@ -61,5 +61,14 @@
   "bytes": 7158195,
   "duration_sec": 894,
   "published_at": "2026-07-10T21:15:32+01:00"
+ },
+ {
+  "guid": "sms-2026-07-13",
+  "title": "The Six-Month Signal — Human Judgment Becomes System Architecture",
+  "description": "Automated evals recover 87% of known failures, a small agent harness turns bug triage into bounded work, and Davidad explains why his AI-catastrophe forecast has fallen below 5%.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-13-211555.mp3",
+  "bytes": 8983815,
+  "duration_sec": 641,
+  "published_at": "2026-07-13T21:15:57+01:00"
  }
 ]

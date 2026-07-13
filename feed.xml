@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Six-Month Signal — Human Judgment Becomes System Architecture</title>
+      <description>Automated evals recover 87% of known failures, a small agent harness turns bug triage into bounded work, and Davidad explains why his AI-catastrophe forecast has fallen below 5%.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-13-211555.mp3" length="8983815" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-07-13</guid>
+      <pubDate>Mon, 13 Jul 2026 21:15:57 +0100</pubDate>
+      <itunes:duration>00:10:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Governed Work Loops Become the Frontier AI Runtime</title>
       <description>OpenAI's GPT-5.6 release, ChatGPT Work, and new runtime primitives point to frontier AI becoming a governed work environment rather than just a model leaderboard. This episode also covers Artificial Analysis' EnterpriseOps-Gym-AA benchmark, Every's GPT-5.6 knowledge-work loop essay, METR's Anthropic researcher-uplift note, and Meta's Muse Spark 1.1 pricing response.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-10-211530.mp3" length="7158195" type="audio/mpeg"/>
