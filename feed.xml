@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Six-Month Signal — Measured Work</title>
+      <description>Three signals for the next six months: task-level agent economics, process-supervised specialist models, and action-conditioned world models.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-14-211522.mp3" length="7140614" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-07-14</guid>
+      <pubDate>Tue, 14 Jul 2026 21:15:31 +0100</pubDate>
+      <itunes:duration>00:08:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Six-Month Signal — Human Judgment Becomes System Architecture</title>
       <description>Automated evals recover 87% of known failures, a small agent harness turns bug triage into bounded work, and Davidad explains why his AI-catastrophe forecast has fallen below 5%.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-13-211555.mp3" length="8983815" type="audio/mpeg"/>

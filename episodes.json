@@ -70,5 +70,14 @@
   "bytes": 8983815,
   "duration_sec": 641,
   "published_at": "2026-07-13T21:15:57+01:00"
+ },
+ {
+  "guid": "sms-2026-07-14",
+  "title": "The Six-Month Signal — Measured Work",
+  "description": "Three signals for the next six months: task-level agent economics, process-supervised specialist models, and action-conditioned world models.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-14-211522.mp3",
+  "bytes": 7140614,
+  "duration_sec": 510,
+  "published_at": "2026-07-14T21:15:31+01:00"
  }
 ]
