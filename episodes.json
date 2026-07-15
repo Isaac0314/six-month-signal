@@ -79,5 +79,14 @@
   "bytes": 7140614,
   "duration_sec": 510,
   "published_at": "2026-07-14T21:15:31+01:00"
+ },
+ {
+  "guid": "sms-2026-07-15",
+  "title": "The Six-Month Signal — Attack, Truth, and Orchestration",
+  "description": "Four signals for the next six months: automated adversarial training, tool-level data containment, factuality-adjusted model rankings, and model-specific orchestration above open agent protocols.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-15-225305.mp3",
+  "bytes": 10097781,
+  "duration_sec": 721,
+  "published_at": "2026-07-15T22:53:07+01:00"
  }
 ]

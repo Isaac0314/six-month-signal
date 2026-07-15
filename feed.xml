@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Six-Month Signal — Attack, Truth, and Orchestration</title>
+      <description>Four signals for the next six months: automated adversarial training, tool-level data containment, factuality-adjusted model rankings, and model-specific orchestration above open agent protocols.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-15-225305.mp3" length="10097781" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-07-15</guid>
+      <pubDate>Wed, 15 Jul 2026 22:53:07 +0100</pubDate>
+      <itunes:duration>00:12:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Six-Month Signal — Measured Work</title>
       <description>Three signals for the next six months: task-level agent economics, process-supervised specialist models, and action-conditioned world models.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-14-211522.mp3" length="7140614" type="audio/mpeg"/>
