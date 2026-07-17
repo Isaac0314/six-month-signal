@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Six-Month Signal — Kimi K3 narrows the open-model cost gap</title>
+      <description>Kimi K3 moves a frontier-cost forecast, Lila Sciences turns experiments into training data, and OpenAI reframes AI buying around cost per successful task.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-17-211504.mp3" length="8468523" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-07-17</guid>
+      <pubDate>Fri, 17 Jul 2026 21:15:06 +0100</pubDate>
+      <itunes:duration>00:10:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Six-Month Signal — Attack, Truth, and Orchestration</title>
       <description>Four signals for the next six months: automated adversarial training, tool-level data containment, factuality-adjusted model rankings, and model-specific orchestration above open agent protocols.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-15-225305.mp3" length="10097781" type="audio/mpeg"/>

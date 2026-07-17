@@ -88,5 +88,14 @@
   "bytes": 10097781,
   "duration_sec": 721,
   "published_at": "2026-07-15T22:53:07+01:00"
+ },
+ {
+  "guid": "sms-2026-07-17",
+  "title": "The Six-Month Signal — Kimi K3 narrows the open-model cost gap",
+  "description": "Kimi K3 moves a frontier-cost forecast, Lila Sciences turns experiments into training data, and OpenAI reframes AI buying around cost per successful task.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-17-211504.mp3",
+  "bytes": 8468523,
+  "duration_sec": 604,
+  "published_at": "2026-07-17T21:15:06+01:00"
  }
 ]
