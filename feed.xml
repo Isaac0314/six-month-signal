@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Six-Month Signal — The Answer Key Became an Attack Surface</title>
+      <description>A public-safe editorial brief on OpenAI's Hugging Face evaluation security incident, Gemini 3.6 Flash task economics, customer-service latency tradeoffs, and METR's expenditure horizon for automated research.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-22-211523.mp3" length="8707701" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-07-22</guid>
+      <pubDate>Wed, 22 Jul 2026 21:15:25 +0100</pubDate>
+      <itunes:duration>00:10:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Six-Month Signal — Kimi K3 narrows the open-model cost gap</title>
       <description>Kimi K3 moves a frontier-cost forecast, Lila Sciences turns experiments into training data, and OpenAI reframes AI buying around cost per successful task.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-17-211504.mp3" length="8468523" type="audio/mpeg"/>

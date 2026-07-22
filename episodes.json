@@ -97,5 +97,14 @@
   "bytes": 8468523,
   "duration_sec": 604,
   "published_at": "2026-07-17T21:15:06+01:00"
+ },
+ {
+  "guid": "sms-2026-07-22",
+  "title": "The Six-Month Signal — The Answer Key Became an Attack Surface",
+  "description": "A public-safe editorial brief on OpenAI's Hugging Face evaluation security incident, Gemini 3.6 Flash task economics, customer-service latency tradeoffs, and METR's expenditure horizon for automated research.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-22-211523.mp3",
+  "bytes": 8707701,
+  "duration_sec": 621,
+  "published_at": "2026-07-22T21:15:25+01:00"
  }
 ]
