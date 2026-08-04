@@ -106,5 +106,14 @@
   "bytes": 8707701,
   "duration_sec": 621,
   "published_at": "2026-07-22T21:15:25+01:00"
+ },
+ {
+  "guid": "sms-2026-08-04",
+  "title": "The Six-Month Signal — Stripe's Kai, Routed AI Economics, and Chai-2",
+  "description": "Stripe's 5,000-user internal agent rollout, the split economics of routed coding and production voice AI, and Chai Discovery's lab-measured antibody-design claim.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-04-211514.mp3",
+  "bytes": 8576043,
+  "duration_sec": 612,
+  "published_at": "2026-08-04T21:15:16+01:00"
  }
 ]

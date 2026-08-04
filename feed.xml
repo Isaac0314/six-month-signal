@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Six-Month Signal — Stripe's Kai, Routed AI Economics, and Chai-2</title>
+      <description>Stripe's 5,000-user internal agent rollout, the split economics of routed coding and production voice AI, and Chai Discovery's lab-measured antibody-design claim.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-04-211514.mp3" length="8576043" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-08-04</guid>
+      <pubDate>Tue, 04 Aug 2026 21:15:16 +0100</pubDate>
+      <itunes:duration>00:10:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Six-Month Signal — The Answer Key Became an Attack Surface</title>
       <description>A public-safe editorial brief on OpenAI's Hugging Face evaluation security incident, Gemini 3.6 Flash task economics, customer-service latency tradeoffs, and METR's expenditure horizon for automated research.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-07-22-211523.mp3" length="8707701" type="audio/mpeg"/>
