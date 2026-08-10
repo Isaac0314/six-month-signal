@@ -115,5 +115,14 @@
   "bytes": 8576043,
   "duration_sec": 612,
   "published_at": "2026-08-04T21:15:16+01:00"
+ },
+ {
+  "guid": "sms-2026-08-10",
+  "title": "The Six-Month Signal — Claude Code's Auto Mode Default, Cloudflare's Agent Browser, and the Routing Margin",
+  "description": "Anthropic's 1,053-tester study behind Friday's auto-mode default, Cloudflare's agent-built Kitesurf browser and stateless MCP, Cursor Router's 68% cost cut at above-frontier satisfaction, OpenAI's gated GPT-5.6-Cyber, and Flo Crivello in his own words on AI-employee economics.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-10-211545.mp3",
+  "bytes": 8337598,
+  "duration_sec": 595,
+  "published_at": "2026-08-10T21:15:48+01:00"
  }
 ]

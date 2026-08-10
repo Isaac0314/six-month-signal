@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Six-Month Signal — Claude Code's Auto Mode Default, Cloudflare's Agent Browser, and the Routing Margin</title>
+      <description>Anthropic's 1,053-tester study behind Friday's auto-mode default, Cloudflare's agent-built Kitesurf browser and stateless MCP, Cursor Router's 68% cost cut at above-frontier satisfaction, OpenAI's gated GPT-5.6-Cyber, and Flo Crivello in his own words on AI-employee economics.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-10-211545.mp3" length="8337598" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-08-10</guid>
+      <pubDate>Mon, 10 Aug 2026 21:15:48 +0100</pubDate>
+      <itunes:duration>00:09:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Six-Month Signal — Stripe's Kai, Routed AI Economics, and Chai-2</title>
       <description>Stripe's 5,000-user internal agent rollout, the split economics of routed coding and production voice AI, and Chai Discovery's lab-measured antibody-design claim.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-04-211514.mp3" length="8576043" type="audio/mpeg"/>
