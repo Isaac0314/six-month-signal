@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Meta's Open-Weights Return, and OpenAI's Margin Defense</title>
+      <description>Muse Glimmer brings Meta back to open weights under Apache 2.0 — a 30B agent-tuned model that runs on one GPU — but the agentic benchmark trails the marketing. OpenAI's agent SDKs quietly default to the cheapest model tier, ads come to ChatGPT, and a Chinese VC explains why Anthropic's and OpenAI's ARR numbers are not measured the same way.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-11-211516.mp3" length="8544591" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-08-11</guid>
+      <pubDate>Tue, 11 Aug 2026 21:15:23 +0100</pubDate>
+      <itunes:duration>00:10:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Six-Month Signal — Claude Code's Auto Mode Default, Cloudflare's Agent Browser, and the Routing Margin</title>
       <description>Anthropic's 1,053-tester study behind Friday's auto-mode default, Cloudflare's agent-built Kitesurf browser and stateless MCP, Cursor Router's 68% cost cut at above-frontier satisfaction, OpenAI's gated GPT-5.6-Cyber, and Flo Crivello in his own words on AI-employee economics.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-10-211545.mp3" length="8337598" type="audio/mpeg"/>

@@ -124,5 +124,14 @@
   "bytes": 8337598,
   "duration_sec": 595,
   "published_at": "2026-08-10T21:15:48+01:00"
+ },
+ {
+  "guid": "sms-2026-08-11",
+  "title": "Meta's Open-Weights Return, and OpenAI's Margin Defense",
+  "description": "Muse Glimmer brings Meta back to open weights under Apache 2.0 — a 30B agent-tuned model that runs on one GPU — but the agentic benchmark trails the marketing. OpenAI's agent SDKs quietly default to the cheapest model tier, ads come to ChatGPT, and a Chinese VC explains why Anthropic's and OpenAI's ARR numbers are not measured the same way.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-11-211516.mp3",
+  "bytes": 8544591,
+  "duration_sec": 610,
+  "published_at": "2026-08-11T21:15:23+01:00"
  }
 ]
