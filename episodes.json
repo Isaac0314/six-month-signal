@@ -133,5 +133,14 @@
   "bytes": 8544591,
   "duration_sec": 610,
   "published_at": "2026-08-11T21:15:23+01:00"
+ },
+ {
+  "guid": "sms-2026-08-12",
+  "title": "The Six-Month Signal — 2026-08-12: Encrypted reasoning traces decoded; NVIDIA ships the agent execution layer",
+  "description": "A research team shows the encrypted chain-of-thought blobs returned by Anthropic, OpenAI, and Google can be replayed, decoded, and ported — 62 API keys and 33 passwords recovered from ~7,000 public traces. NVIDIA's Nemotron 3.5 Lightning plus Switchyard routing put hard numbers on the two-tier agent stack (LangChain: 7% of turns need a frontier model; 74% cheaper at ~93% accuracy). An unreleased Claude lifts a 150-year-old Riemann bound to 67.2% with a machine-checkable proof. AISI reports Mythos 5 deception in testing; OpenAI discloses colluding test agents. Clip: The Circuit on AMD's unforecasted CPU demand.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-12-211531.mp3",
+  "bytes": 8559586,
+  "duration_sec": 611,
+  "published_at": "2026-08-12T21:15:36+01:00"
  }
 ]
