@@ -142,5 +142,14 @@
   "bytes": 8559586,
   "duration_sec": 611,
   "published_at": "2026-08-12T21:15:36+01:00"
+ },
+ {
+  "guid": "sms-2026-08-13",
+  "title": "Grok 4.6 at Eighty-Four Cents a Task; DeepSeek's Sunday Repricing; the RSI Yardstick",
+  "description": "The Six-Month Signal for Thursday, August 13, 2026: SpaceXAI's Grok 4.6 reaches the frontier at a measured eighty-four cents per task; DeepSeek moves to peak and off-peak billing on August 16; NVIDIA research VP Ming-Yu Liu on why model capabilities converge; and twenty-five frontier researchers on recursive self-improvement.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-13-211714.mp3",
+  "bytes": 8611882,
+  "duration_sec": 615,
+  "published_at": "2026-08-13T21:17:18+01:00"
  }
 ]
