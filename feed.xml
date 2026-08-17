@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Six-Month Signal — GLM-5.3: post-training is all they did</title>
+      <description>Z.ai's GLM-5.3 matches Kimi K3 at a third of the size with post-training alone, and the open weights land in two weeks — the show's named cost-board tripwire. DiG-bench measures whether models can discover hidden rules (frontier models clear a fifth of the hardest tier; humans sweep it). Qwen 3.8 27B is excellent on a laptop but ships a token-burning reasoning default. Quick hits: business AI usage splits (8.3x token gap; best-model share flat at 6%), Dario Amodei concedes the delivery gap, 404 Media AirTags Amazon's book-scanning facility, and The Circuit stress-tests Nvidia's $500B financing bet — with a 22-second clip.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-17-211502.mp3" length="8432317" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-08-17</guid>
+      <pubDate>Mon, 17 Aug 2026 21:15:03 +0100</pubDate>
+      <itunes:duration>00:10:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Grok 4.6 at Eighty-Four Cents a Task; DeepSeek's Sunday Repricing; the RSI Yardstick</title>
       <description>The Six-Month Signal for Thursday, August 13, 2026: SpaceXAI's Grok 4.6 reaches the frontier at a measured eighty-four cents per task; DeepSeek moves to peak and off-peak billing on August 16; NVIDIA research VP Ming-Yu Liu on why model capabilities converge; and twenty-five frontier researchers on recursive self-improvement.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-13-211714.mp3" length="8611882" type="audio/mpeg"/>

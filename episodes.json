@@ -151,5 +151,14 @@
   "bytes": 8611882,
   "duration_sec": 615,
   "published_at": "2026-08-13T21:17:18+01:00"
+ },
+ {
+  "guid": "sms-2026-08-17",
+  "title": "The Six-Month Signal — GLM-5.3: post-training is all they did",
+  "description": "Z.ai's GLM-5.3 matches Kimi K3 at a third of the size with post-training alone, and the open weights land in two weeks — the show's named cost-board tripwire. DiG-bench measures whether models can discover hidden rules (frontier models clear a fifth of the hardest tier; humans sweep it). Qwen 3.8 27B is excellent on a laptop but ships a token-burning reasoning default. Quick hits: business AI usage splits (8.3x token gap; best-model share flat at 6%), Dario Amodei concedes the delivery gap, 404 Media AirTags Amazon's book-scanning facility, and The Circuit stress-tests Nvidia's $500B financing bet — with a 22-second clip.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-17-211502.mp3",
+  "bytes": 8432317,
+  "duration_sec": 602,
+  "published_at": "2026-08-17T21:15:03+01:00"
  }
 ]
