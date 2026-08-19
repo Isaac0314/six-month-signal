@@ -169,5 +169,14 @@
   "bytes": 8667105,
   "duration_sec": 619,
   "published_at": "2026-08-18T21:15:35+01:00"
+ },
+ {
+  "guid": "sms-2026-08-19",
+  "title": "The Model You Can't Have, the Memory You Can't Afford",
+  "description": "Anthropic's August Risk Report reveals an internal model ahead of its public frontier, scoring 62.8% on substituting for its own researchers. Memory prices hit 2007 levels as hyperscalers lock in 2027 DRAM supply, and the AI buildout starts crowding out Treasurys. OpenAI halves flagship prices on OpenRouter while a laptop-sized Qwen ties Luna. Plus: a 17-year-old reaches ICML's main track on an eight-hundred-dollar budget.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-19-211518.mp3",
+  "bytes": 8890924,
+  "duration_sec": 635,
+  "published_at": "2026-08-19T21:15:23+01:00"
  }
 ]

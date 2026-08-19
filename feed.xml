@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Model You Can't Have, the Memory You Can't Afford</title>
+      <description>Anthropic's August Risk Report reveals an internal model ahead of its public frontier, scoring 62.8% on substituting for its own researchers. Memory prices hit 2007 levels as hyperscalers lock in 2027 DRAM supply, and the AI buildout starts crowding out Treasurys. OpenAI halves flagship prices on OpenRouter while a laptop-sized Qwen ties Luna. Plus: a 17-year-old reaches ICML's main track on an eight-hundred-dollar budget.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-19-211518.mp3" length="8890924" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 21:15:23 +0100</pubDate>
+      <itunes:duration>00:10:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Six-Month Signal — Tuesday, August 18, 2026</title>
       <description>Stripe all but closes a $7B purchase of OpenRouter — $140M annualized revenue, 70% gross margins, 250 trillion tokens a month, and the public rankings tape that comes with it. Cursor's Origin starts hosting code inside the SpaceX fold. And Rich Sutton tells Sequoia why models that never stop learning are the real prize — in his own words.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-18-211533.mp3" length="8667105" type="audio/mpeg"/>
