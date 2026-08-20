@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Context Pipe Did</title>
+      <description>The same model jumps from 33 to 75 with a better search API; AT&amp;T publishes a 56% routing-cost cut; Generalist shows one-shot physical learning; and OpenAI previews private safety processing.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-20-211537.mp3" length="9329415" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-08-20</guid>
+      <pubDate>Thu, 20 Aug 2026 21:15:42 +0100</pubDate>
+      <itunes:duration>00:11:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Model You Can't Have, the Memory You Can't Afford</title>
       <description>Anthropic's August Risk Report reveals an internal model ahead of its public frontier, scoring 62.8% on substituting for its own researchers. Memory prices hit 2007 levels as hyperscalers lock in 2027 DRAM supply, and the AI buildout starts crowding out Treasurys. OpenAI halves flagship prices on OpenRouter while a laptop-sized Qwen ties Luna. Plus: a 17-year-old reaches ICML's main track on an eight-hundred-dollar budget.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-19-211518.mp3" length="8890924" type="audio/mpeg"/>

@@ -178,5 +178,14 @@
   "bytes": 8890924,
   "duration_sec": 635,
   "published_at": "2026-08-19T21:15:23+01:00"
+ },
+ {
+  "guid": "sms-2026-08-20",
+  "title": "The Context Pipe Did",
+  "description": "The same model jumps from 33 to 75 with a better search API; AT&T publishes a 56% routing-cost cut; Generalist shows one-shot physical learning; and OpenAI previews private safety processing.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-20-211537.mp3",
+  "bytes": 9329415,
+  "duration_sec": 666,
+  "published_at": "2026-08-20T21:15:42+01:00"
  }
 ]
