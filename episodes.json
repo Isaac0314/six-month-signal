@@ -187,5 +187,14 @@
   "bytes": 9329415,
   "duration_sec": 666,
   "published_at": "2026-08-20T21:15:42+01:00"
+ },
+ {
+  "guid": "sms-2026-08-21",
+  "title": "Headway Builds the Agent It Couldn't Buy",
+  "description": "Headway's disposable-container agent, Mistral's retrieval-loop benchmarks, Apple Messages permissions, Linear's runtime pricing, and a Coding Agent Index version break.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-21-211559.mp3",
+  "bytes": 10221653,
+  "duration_sec": 638,
+  "published_at": "2026-08-21T21:16:05+01:00"
  }
 ]
