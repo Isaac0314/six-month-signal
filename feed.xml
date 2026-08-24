@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Agent traffic gets a real benchmark</title>
+      <description>SemiAnalysis opens AgentX, a multi-turn inference benchmark built around long-context coding-agent traffic. METR finds discovery acceleration is sharp in cyber but absent from public optimization trend lines, while Simile AI makes the case for validated human-behavior simulation. The episode includes a 21-second clip from Simile cofounder Joon Sung Park.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-24-211528.mp3" length="9220067" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-08-24</guid>
+      <pubDate>Mon, 24 Aug 2026 21:15:33 +0100</pubDate>
+      <itunes:duration>00:10:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Headway Builds the Agent It Couldn't Buy</title>
       <description>Headway's disposable-container agent, Mistral's retrieval-loop benchmarks, Apple Messages permissions, Linear's runtime pricing, and a Coding Agent Index version break.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-21-211559.mp3" length="10221653" type="audio/mpeg"/>
