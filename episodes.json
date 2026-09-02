@@ -214,5 +214,14 @@
   "bytes": 9613208,
   "duration_sec": 686,
   "published_at": "2026-08-25T21:15:11+01:00"
+ },
+ {
+  "guid": "sms-2026-09-02",
+  "title": "Astra's Quiet Reasoning Test",
+  "description": "OpenAI's Astra crosses a critical cyber threshold as visible reasoning may shrink; Anthropic moves safeguards into customer-controlled cloud infrastructure; and Glean claims a large context-and-routing task-cost gap.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-02-211540.mp3",
+  "bytes": 9314786,
+  "duration_sec": 665,
+  "published_at": "2026-09-02T21:15:45+01:00"
  }
 ]

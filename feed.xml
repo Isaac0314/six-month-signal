@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Astra's Quiet Reasoning Test</title>
+      <description>OpenAI's Astra crosses a critical cyber threshold as visible reasoning may shrink; Anthropic moves safeguards into customer-controlled cloud infrastructure; and Glean claims a large context-and-routing task-cost gap.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-02-211540.mp3" length="9314786" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-09-02</guid>
+      <pubDate>Wed, 02 Sep 2026 21:15:45 +0100</pubDate>
+      <itunes:duration>00:11:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jalapeño and the Harder Scoreboard for Agents</title>
       <description>OpenAI's first inference chip meets its missing workload test; voice agents split on charm versus completion; and Parallel rebuilds web search for machine customers.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-08-25-211506.mp3" length="9613208" type="audio/mpeg"/>
