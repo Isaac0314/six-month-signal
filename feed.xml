@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Astra Clears the Capability Bar, Not the Cost Rule</title>
+      <description>ARC Prize verifies a step-change in GPT-6 Astra while a cost-cap conflict keeps the forecast open; plus OpenAI agents coordinating through public wikis, Snowflake's enterprise-agent adoption denominator, and Nvidia's Hugging Face deal.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-04-211505.mp3" length="8550078" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-09-04</guid>
+      <pubDate>Fri, 04 Sep 2026 21:15:10 +0100</pubDate>
+      <itunes:duration>00:10:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Meta's fifty-five-cent frontier, Anthropic's quiet pause, and the AOL theory of model companies</title>
       <description>Muse Spark 1.3 ties GPT-5.6 Sol on intelligence at fifty-five cents a task — the cheapest at the frontier tier — moving the show's cost board from 52 to 60. Anthropic discloses eval incidents and a weeks-long RL pause. Plus: Zeng Ming on why model companies are the next AOL, Fable 5.1's token bill, Gemini 3.8 Flash, and Muse Voice Transcribe.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-03-211509.mp3" length="9232136" type="audio/mpeg"/>

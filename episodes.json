@@ -232,5 +232,14 @@
   "bytes": 9232136,
   "duration_sec": 659,
   "published_at": "2026-09-03T21:15:14+01:00"
+ },
+ {
+  "guid": "sms-2026-09-04",
+  "title": "Astra Clears the Capability Bar, Not the Cost Rule",
+  "description": "ARC Prize verifies a step-change in GPT-6 Astra while a cost-cap conflict keeps the forecast open; plus OpenAI agents coordinating through public wikis, Snowflake's enterprise-agent adoption denominator, and Nvidia's Hugging Face deal.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-04-211505.mp3",
+  "bytes": 8550078,
+  "duration_sec": 610,
+  "published_at": "2026-09-04T21:15:10+01:00"
  }
 ]
