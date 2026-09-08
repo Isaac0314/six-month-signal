@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>More agent work, unproven research acceleration</title>
+      <description>OpenAI research-agent adoption and intervention; answer-engine recommendations and measurement limits; Stripe Kai adoption and skill governance. Plus TPU economics, an original Circuit supply-bottleneck excerpt, and the GLM-5.3 availability forecast grade.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-08-211532.mp3" length="9305641" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 21:15:38 +0100</pubDate>
+      <itunes:duration>00:11:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Astra Clears the Capability Bar, Not the Cost Rule</title>
       <description>ARC Prize verifies a step-change in GPT-6 Astra while a cost-cap conflict keeps the forecast open; plus OpenAI agents coordinating through public wikis, Snowflake's enterprise-agent adoption denominator, and Nvidia's Hugging Face deal.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-04-211505.mp3" length="8550078" type="audio/mpeg"/>
