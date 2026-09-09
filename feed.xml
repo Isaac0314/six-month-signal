@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Data gains, usable science, and the cost of editing</title>
+      <description>A small-scale pretraining study separates data gains from model recipes; AlphaGenome Atlas precomputes genome-wide research predictions; image editing gets a new product split. Plus a Plan A excerpt on prediction versus recommendation. Research claims are attributed and bounded.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-09-211504.mp3" length="9660020" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-09-09</guid>
+      <pubDate>Wed, 09 Sep 2026 21:15:09 +0100</pubDate>
+      <itunes:duration>00:11:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>More agent work, unproven research acceleration</title>
       <description>OpenAI research-agent adoption and intervention; answer-engine recommendations and measurement limits; Stripe Kai adoption and skill governance. Plus TPU economics, an original Circuit supply-bottleneck excerpt, and the GLM-5.3 availability forecast grade.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-08-211532.mp3" length="9305641" type="audio/mpeg"/>

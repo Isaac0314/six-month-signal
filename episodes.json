@@ -250,5 +250,14 @@
   "bytes": 9305641,
   "duration_sec": 664,
   "published_at": "2026-09-08T21:15:38+01:00"
+ },
+ {
+  "guid": "sms-2026-09-09",
+  "title": "Data gains, usable science, and the cost of editing",
+  "description": "A small-scale pretraining study separates data gains from model recipes; AlphaGenome Atlas precomputes genome-wide research predictions; image editing gets a new product split. Plus a Plan A excerpt on prediction versus recommendation. Research claims are attributed and bounded.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-09-211504.mp3",
+  "bytes": 9660020,
+  "duration_sec": 689,
+  "published_at": "2026-09-09T21:15:09+01:00"
  }
 ]
