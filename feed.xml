@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The model name stays; the model changes</title>
+      <description>DeepSeek retires V4 Pro behind an unchanged API alias; Calif describes an AI-assisted WeChat security demonstration; OpenAI bundles financial data and firm templates. Plus task-specific Astra and Luna evaluation results.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-10-211601.mp3" length="9924484" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-09-10</guid>
+      <pubDate>Thu, 10 Sep 2026 21:16:06 +0100</pubDate>
+      <itunes:duration>00:10:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Data gains, usable science, and the cost of editing</title>
       <description>A small-scale pretraining study separates data gains from model recipes; AlphaGenome Atlas precomputes genome-wide research predictions; image editing gets a new product split. Plus a Plan A excerpt on prediction versus recommendation. Research claims are attributed and bounded.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-09-211504.mp3" length="9660020" type="audio/mpeg"/>

@@ -259,5 +259,14 @@
   "bytes": 9660020,
   "duration_sec": 689,
   "published_at": "2026-09-09T21:15:09+01:00"
+ },
+ {
+  "guid": "sms-2026-09-10",
+  "title": "The model name stays; the model changes",
+  "description": "DeepSeek retires V4 Pro behind an unchanged API alias; Calif describes an AI-assisted WeChat security demonstration; OpenAI bundles financial data and firm templates. Plus task-specific Astra and Luna evaluation results.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-10-211601.mp3",
+  "bytes": 9924484,
+  "duration_sec": 620,
+  "published_at": "2026-09-10T21:16:06+01:00"
  }
 ]
