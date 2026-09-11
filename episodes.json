@@ -268,5 +268,14 @@
   "bytes": 9924484,
   "duration_sec": 620,
   "published_at": "2026-09-10T21:16:06+01:00"
+ },
+ {
+  "guid": "sms-2026-09-11",
+  "title": "Cheap on which task? SWE-2, threat evidence and the voice stop button",
+  "description": "Cognition’s coding discount meets a harder terminal test; Anthropic separates observed misuse from prevalence; GPT-Live exposes the difference between stopping speech and cancelling work. With an original John Schulman excerpt.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-11-211546.mp3",
+  "bytes": 9214946,
+  "duration_sec": 658,
+  "published_at": "2026-09-11T21:15:51+01:00"
  }
 ]

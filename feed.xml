@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cheap on which task? SWE-2, threat evidence and the voice stop button</title>
+      <description>Cognition’s coding discount meets a harder terminal test; Anthropic separates observed misuse from prevalence; GPT-Live exposes the difference between stopping speech and cancelling work. With an original John Schulman excerpt.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-11-211546.mp3" length="9214946" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-09-11</guid>
+      <pubDate>Fri, 11 Sep 2026 21:15:51 +0100</pubDate>
+      <itunes:duration>00:10:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The model name stays; the model changes</title>
       <description>DeepSeek retires V4 Pro behind an unchanged API alias; Calif describes an AI-assisted WeChat security demonstration; OpenAI bundles financial data and firm templates. Plus task-specific Astra and Luna evaluation results.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-10-211601.mp3" length="9924484" type="audio/mpeg"/>
