@@ -277,5 +277,14 @@
   "bytes": 9214946,
   "duration_sec": 658,
   "published_at": "2026-09-11T21:15:51+01:00"
+ },
+ {
+  "guid": "sms-2026-09-14",
+  "title": "The Bill Falls When the Model Does Less",
+  "description": "LangChain moves reporting calculations out of the model; agent traffic meets the revenue test; Richard Socher explains a reward-hacking shortcut. Plus a DeepSeek service correction, inference-memory economics and a Claude Code patch.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-14-211529.mp3",
+  "bytes": 10679107,
+  "duration_sec": 669,
+  "published_at": "2026-09-14T21:15:35+01:00"
  }
 ]

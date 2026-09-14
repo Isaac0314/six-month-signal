@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Bill Falls When the Model Does Less</title>
+      <description>LangChain moves reporting calculations out of the model; agent traffic meets the revenue test; Richard Socher explains a reward-hacking shortcut. Plus a DeepSeek service correction, inference-memory economics and a Claude Code patch.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-14-211529.mp3" length="10679107" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 21:15:35 +0100</pubDate>
+      <itunes:duration>00:11:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cheap on which task? SWE-2, threat evidence and the voice stop button</title>
       <description>Cognition’s coding discount meets a harder terminal test; Anthropic separates observed misuse from prevalence; GPT-Live exposes the difference between stopping speech and cancelling work. With an original John Schulman excerpt.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-11-211546.mp3" length="9214946" type="audio/mpeg"/>
