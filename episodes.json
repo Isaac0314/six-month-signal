@@ -286,5 +286,14 @@
   "bytes": 10679107,
   "duration_sec": 669,
   "published_at": "2026-09-14T21:15:35+01:00"
+ },
+ {
+  "guid": "sms-2026-09-15",
+  "title": "Speech without waiting, decisions without prose",
+  "description": "Gemini 3.8 Live separates conversational fluency from completed tasks. TypeSafe Jev tests structured decisions without prose. ChinAI reports the production economics and rework behind an AI-generated television series. Includes a public Machine Learning Street Talk excerpt.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-15-211554.mp3",
+  "bytes": 9382809,
+  "duration_sec": 670,
+  "published_at": "2026-09-15T21:15:59+01:00"
  }
 ]

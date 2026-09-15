@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Speech without waiting, decisions without prose</title>
+      <description>Gemini 3.8 Live separates conversational fluency from completed tasks. TypeSafe Jev tests structured decisions without prose. ChinAI reports the production economics and rework behind an AI-generated television series. Includes a public Machine Learning Street Talk excerpt.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-15-211554.mp3" length="9382809" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-09-15</guid>
+      <pubDate>Tue, 15 Sep 2026 21:15:59 +0100</pubDate>
+      <itunes:duration>00:11:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Bill Falls When the Model Does Less</title>
       <description>LangChain moves reporting calculations out of the model; agent traffic meets the revenue test; Richard Socher explains a reward-hacking shortcut. Plus a DeepSeek service correction, inference-memory economics and a Claude Code patch.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-14-211529.mp3" length="10679107" type="audio/mpeg"/>
