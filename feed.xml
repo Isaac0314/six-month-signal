@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Paying for the wrapper</title>
+      <description>Arena compares coding harness cost with the model held fixed. Salesforce Koa's paper puts limits on its CRM launch claim. AIUC explains what certification and insurance do—and do not—cover, with an original Rune Kvist excerpt. Plus Claude's merged chat and Cowork rollout.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-16-211530.mp3" length="9669528" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-09-16</guid>
+      <pubDate>Wed, 16 Sep 2026 21:15:36 +0100</pubDate>
+      <itunes:duration>00:11:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Speech without waiting, decisions without prose</title>
       <description>Gemini 3.8 Live separates conversational fluency from completed tasks. TypeSafe Jev tests structured decisions without prose. ChinAI reports the production economics and rework behind an AI-generated television series. Includes a public Machine Learning Street Talk excerpt.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-15-211554.mp3" length="9382809" type="audio/mpeg"/>
