@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Finance Expertise, Missing Ablations, and Skill Trust</title>
+      <description>A finance model improves business knowledge while hallucinating more; Noam Brown explains the missing single-agent comparison behind a research swarm; a reported coding-agent skill-update flaw tests content-bound trust. Includes a short original Dwarkesh Podcast excerpt.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-17-211545.mp3" length="8995151" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-09-17</guid>
+      <pubDate>Thu, 17 Sep 2026 21:15:58 +0100</pubDate>
+      <itunes:duration>00:10:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Paying for the wrapper</title>
       <description>Arena compares coding harness cost with the model held fixed. Salesforce Koa's paper puts limits on its CRM launch claim. AIUC explains what certification and insurance do—and do not—cover, with an original Rune Kvist excerpt. Plus Claude's merged chat and Cowork rollout.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-16-211530.mp3" length="9669528" type="audio/mpeg"/>

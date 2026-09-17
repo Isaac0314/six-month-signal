@@ -304,5 +304,14 @@
   "bytes": 9669528,
   "duration_sec": 690,
   "published_at": "2026-09-16T21:15:36+01:00"
+ },
+ {
+  "guid": "sms-2026-09-17",
+  "title": "Finance Expertise, Missing Ablations, and Skill Trust",
+  "description": "A finance model improves business knowledge while hallucinating more; Noam Brown explains the missing single-agent comparison behind a research swarm; a reported coding-agent skill-update flaw tests content-bound trust. Includes a short original Dwarkesh Podcast excerpt.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-17-211545.mp3",
+  "bytes": 8995151,
+  "duration_sec": 642,
+  "published_at": "2026-09-17T21:15:58+01:00"
  }
 ]
