@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Reading less video, granting narrower access</title>
+      <description>Qwen reports better video answers with fewer input tokens, Anthropic changes verified life-sciences access, and Stefano Ermon explains the diffusion inference hypothesis. Plus a filmmaker field test. Vendor measurements and publication caveats are distinguished from independent results.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-18-211505.mp3" length="9764981" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 21:15:10 +0100</pubDate>
+      <itunes:duration>00:11:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Finance Expertise, Missing Ablations, and Skill Trust</title>
       <description>A finance model improves business knowledge while hallucinating more; Noam Brown explains the missing single-agent comparison behind a research swarm; a reported coding-agent skill-update flaw tests content-bound trust. Includes a short original Dwarkesh Podcast excerpt.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-17-211545.mp3" length="8995151" type="audio/mpeg"/>

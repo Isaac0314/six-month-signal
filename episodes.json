@@ -313,5 +313,14 @@
   "bytes": 8995151,
   "duration_sec": 642,
   "published_at": "2026-09-17T21:15:58+01:00"
+ },
+ {
+  "guid": "sms-2026-09-18",
+  "title": "Reading less video, granting narrower access",
+  "description": "Qwen reports better video answers with fewer input tokens, Anthropic changes verified life-sciences access, and Stefano Ermon explains the diffusion inference hypothesis. Plus a filmmaker field test. Vendor measurements and publication caveats are distinguished from independent results.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-18-211505.mp3",
+  "bytes": 9764981,
+  "duration_sec": 697,
+  "published_at": "2026-09-18T21:15:10+01:00"
  }
 ]
