@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Five examples are not five hundred tasks</title>
+      <description>Jev evaluator repeatability versus generalization; Warp’s human review queue; Qwen-Image-2.1 native transparency; and Ayar Labs’ Mark Wade on interconnect distance. Measured claims, explicit evidence limits, and one original-audio excerpt.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-21-211526.mp3" length="8686123" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-09-21</guid>
+      <pubDate>Mon, 21 Sep 2026 21:15:31 +0100</pubDate>
+      <itunes:duration>00:10:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Reading less video, granting narrower access</title>
       <description>Qwen reports better video answers with fewer input tokens, Anthropic changes verified life-sciences access, and Stefano Ermon explains the diffusion inference hypothesis. Plus a filmmaker field test. Vendor measurements and publication caveats are distinguished from independent results.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-18-211505.mp3" length="9764981" type="audio/mpeg"/>

@@ -322,5 +322,14 @@
   "bytes": 9764981,
   "duration_sec": 697,
   "published_at": "2026-09-18T21:15:10+01:00"
+ },
+ {
+  "guid": "sms-2026-09-21",
+  "title": "Five examples are not five hundred tasks",
+  "description": "Jev evaluator repeatability versus generalization; Warp’s human review queue; Qwen-Image-2.1 native transparency; and Ayar Labs’ Mark Wade on interconnect distance. Measured claims, explicit evidence limits, and one original-audio excerpt.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-21-211526.mp3",
+  "bytes": 8686123,
+  "duration_sec": 620,
+  "published_at": "2026-09-21T21:15:31+01:00"
  }
 ]
