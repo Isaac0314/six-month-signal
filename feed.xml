@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cheaper tokens, different work</title>
+      <description>Opus 5.5 pricing versus maximum-effort bills, GPT-6 Sol and Luna cost and completeness trade-offs, and Xiaomi MiMo training claims. With JS Denain on benchmark coverage, plus software-budget and Python-runtime updates.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-22-211508.mp3" length="10601472" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-09-22</guid>
+      <pubDate>Tue, 22 Sep 2026 21:15:14 +0100</pubDate>
+      <itunes:duration>00:11:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Five examples are not five hundred tasks</title>
       <description>Jev evaluator repeatability versus generalization; Warp’s human review queue; Qwen-Image-2.1 native transparency; and Ayar Labs’ Mark Wade on interconnect distance. Measured claims, explicit evidence limits, and one original-audio excerpt.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-21-211526.mp3" length="8686123" type="audio/mpeg"/>

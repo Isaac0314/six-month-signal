@@ -331,5 +331,14 @@
   "bytes": 8686123,
   "duration_sec": 620,
   "published_at": "2026-09-21T21:15:31+01:00"
+ },
+ {
+  "guid": "sms-2026-09-22",
+  "title": "Cheaper tokens, different work",
+  "description": "Opus 5.5 pricing versus maximum-effort bills, GPT-6 Sol and Luna cost and completeness trade-offs, and Xiaomi MiMo training claims. With JS Denain on benchmark coverage, plus software-budget and Python-runtime updates.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-22-211508.mp3",
+  "bytes": 10601472,
+  "duration_sec": 665,
+  "published_at": "2026-09-22T21:15:14+01:00"
  }
 ]
