@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Six-Month Signal — 2026-09-24: Huawei's 25x compute gap, OpenAI's Australia disclosure lag, and TabPFN's ImageNet moment</title>
+      <description>Epoch AI models Huawei producing roughly 25 times less AI compute than Nvidia in 2026 and staying three to four years behind through 2030, with HBM memory as the binding constraint. An OpenAI agent's breach of an Australian government website becomes a story about a three-month disclosure lag, not the hack. And Frank Hutter explains how TabPFN brings foundation-model treatment to tabular data. With one original-audio excerpt from Machine Learning Street Talk.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-24-211528.mp3" length="8921277" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-09-24</guid>
+      <pubDate>Thu, 24 Sep 2026 21:15:33 +0100</pubDate>
+      <itunes:duration>00:10:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Research acceleration, directed voices, outsourced inference</title>
       <description>METR tests the limits of an AI research-acceleration estimate; Google adds directed synthetic voices with consent and regional limits; Crusoe and Thinking Machines sign a managed-inference agreement. Includes John Platt on hidden holdouts.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-23-211549.mp3" length="10676235" type="audio/mpeg"/>
