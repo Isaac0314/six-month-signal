@@ -358,5 +358,14 @@
   "bytes": 8921277,
   "duration_sec": 637,
   "published_at": "2026-09-24T21:15:33+01:00"
+ },
+ {
+  "guid": "sms-2026-09-25",
+  "title": "The Six-Month Signal — 2026-09-25: Traces to tuned models, the floor under sandboxes, real-time worlds",
+  "description": "LangChain's smithtune turns agent traces into specialist models (with the curation catch); Cloudflare's cross-tenant storage disclosure; Runway's WorldPrompt and the honest limits of real-time world models; plus the GLM-5.3 forecast grade.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-25-211511.mp3",
+  "bytes": 9312226,
+  "duration_sec": 665,
+  "published_at": "2026-09-25T21:15:16+01:00"
  }
 ]
