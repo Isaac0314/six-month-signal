@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cheap Thinking, Expensive Assurance</title>
+      <description>METR tests an action monitor and finds approval-boundary gaps. Epoch measures falling benchmark costs, OpenRouter discusses token fraud, and an ARC-AGI-3 forecast receives a result. Includes a short original Latent Space excerpt.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-28-211529.mp3" length="10195634" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-09-28</guid>
+      <pubDate>Mon, 28 Sep 2026 21:15:36 +0100</pubDate>
+      <itunes:duration>00:10:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Six-Month Signal — 2026-09-25: Traces to tuned models, the floor under sandboxes, real-time worlds</title>
       <description>LangChain's smithtune turns agent traces into specialist models (with the curation catch); Cloudflare's cross-tenant storage disclosure; Runway's WorldPrompt and the honest limits of real-time world models; plus the GLM-5.3 forecast grade.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-25-211511.mp3" length="9312226" type="audio/mpeg"/>
