@@ -376,5 +376,14 @@
   "bytes": 10195634,
   "duration_sec": 639,
   "published_at": "2026-09-28T21:15:36+01:00"
+ },
+ {
+  "guid": "sms-2026-09-29",
+  "title": "When trying harder makes the result worse",
+  "description": "Sonnet 5.5 and the cost of extra review; AISI tests the boundary between continuation and permission; OpenAI DevDay introduces cheaper Sol and task-dependent decision models. Includes a short Thariq Shihipar excerpt from Latent Space.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-29-211517.mp3",
+  "bytes": 9428157,
+  "duration_sec": 673,
+  "published_at": "2026-09-29T21:15:22+01:00"
  }
 ]
