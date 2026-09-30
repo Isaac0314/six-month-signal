@@ -385,5 +385,14 @@
   "bytes": 9428157,
   "duration_sec": 673,
   "published_at": "2026-09-29T21:15:22+01:00"
+ },
+ {
+  "guid": "sms-2026-09-30",
+  "title": "The wait before the answer",
+  "description": "Local agent inference exposes prefill delays; a retrospective Lean checker incident tests verification assumptions; GLM cyber results separate capability from engagement; Richard Ho explains why AI chip design still needs EDA sign-off.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-09-30-211516.mp3",
+  "bytes": 10463650,
+  "duration_sec": 653,
+  "published_at": "2026-09-30T21:15:23+01:00"
  }
 ]
