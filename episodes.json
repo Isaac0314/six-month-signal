@@ -394,5 +394,14 @@
   "bytes": 10463650,
   "duration_sec": 653,
   "published_at": "2026-09-30T21:15:23+01:00"
+ },
+ {
+  "guid": "sms-2026-10-01",
+  "title": "Argon's discount, cache-aware routing, and where agent revenue lands",
+  "description": "Gemini 4 Argon joins the frontier with a temporary price advantage; Cloudflare exposes routing cost-quality trade-offs; Vercel growth raises the question of retained paid workloads. Includes a public Latent Space cache-preview excerpt.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-01-211517.mp3",
+  "bytes": 9465461,
+  "duration_sec": 676,
+  "published_at": "2026-10-01T21:15:22+01:00"
  }
 ]
