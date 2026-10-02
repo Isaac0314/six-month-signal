@@ -403,5 +403,14 @@
   "bytes": 9465461,
   "duration_sec": 676,
   "published_at": "2026-10-01T21:15:22+01:00"
+ },
+ {
+  "guid": "sms-2026-10-02",
+  "title": "Small Decisions, Real Permissions",
+  "description": "Strands Decider and Cloudflare Clef narrow the decision task; Harvey exposes the work behind permissioned connectors; Shawn Wen explains voice timing, with an original MLST excerpt and an ElevenLabs adoption update.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-02-211517.mp3",
+  "bytes": 9564515,
+  "duration_sec": 600,
+  "published_at": "2026-10-02T21:15:23+01:00"
  }
 ]
