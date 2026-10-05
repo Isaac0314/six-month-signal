@@ -412,5 +412,14 @@
   "bytes": 9564515,
   "duration_sec": 600,
   "published_at": "2026-10-02T21:15:23+01:00"
+ },
+ {
+  "guid": "sms-2026-10-05",
+  "title": "Capacity Isn't a Customer",
+  "description": "Epoch AI separates potential agent capacity from paid demand. Microsoft reportedly cuts its internal Claude spending projection, while a DeepMind robotics researcher explains the cross-embodiment test. Plus Granola Snapshots, Claude Code permission fixes and a local Qwen arithmetic pilot.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-05-211542.mp3",
+  "bytes": 10787464,
+  "duration_sec": 677,
+  "published_at": "2026-10-05T21:15:44+01:00"
  }
 ]

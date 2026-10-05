@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Capacity Isn't a Customer</title>
+      <description>Epoch AI separates potential agent capacity from paid demand. Microsoft reportedly cuts its internal Claude spending projection, while a DeepMind robotics researcher explains the cross-embodiment test. Plus Granola Snapshots, Claude Code permission fixes and a local Qwen arithmetic pilot.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-05-211542.mp3" length="10787464" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-10-05</guid>
+      <pubDate>Mon, 05 Oct 2026 21:15:44 +0100</pubDate>
+      <itunes:duration>00:11:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Small Decisions, Real Permissions</title>
       <description>Strands Decider and Cloudflare Clef narrow the decision task; Harvey exposes the work behind permissioned connectors; Shawn Wen explains voice timing, with an original MLST excerpt and an ElevenLabs adoption update.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-02-211517.mp3" length="9564515" type="audio/mpeg"/>
