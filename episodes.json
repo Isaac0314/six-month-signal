@@ -421,5 +421,14 @@
   "bytes": 10787464,
   "duration_sec": 677,
   "published_at": "2026-10-05T21:15:44+01:00"
+ },
+ {
+  "guid": "sms-2026-10-06",
+  "title": "Beam's Efficiency Claim Meets the Real Machine",
+  "description": "Reflection Beam's compute claims and deployment boundaries; METR's patched transcript-viewer demonstration; SemiAnalysis on workload-dependent subscription value. Includes Amin Vahdat on delivered compute.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-06-211532.mp3",
+  "bytes": 9446809,
+  "duration_sec": 674,
+  "published_at": "2026-10-06T21:15:35+01:00"
  }
 ]

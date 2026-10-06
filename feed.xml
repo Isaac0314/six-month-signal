@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Beam's Efficiency Claim Meets the Real Machine</title>
+      <description>Reflection Beam's compute claims and deployment boundaries; METR's patched transcript-viewer demonstration; SemiAnalysis on workload-dependent subscription value. Includes Amin Vahdat on delivered compute.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-06-211532.mp3" length="9446809" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 21:15:35 +0100</pubDate>
+      <itunes:duration>00:11:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Capacity Isn't a Customer</title>
       <description>Epoch AI separates potential agent capacity from paid demand. Microsoft reportedly cuts its internal Claude spending projection, while a DeepMind robotics researcher explains the cross-embodiment test. Plus Granola Snapshots, Claude Code permission fixes and a local Qwen arithmetic pilot.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-05-211542.mp3" length="10787464" type="audio/mpeg"/>
