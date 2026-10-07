@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Results are becoming inspectable</title>
+      <description>OpenAI publishes a mathematical research collection with uneven verification; Mistral Large 4 adds an API-preview alternative; Google brings multimodal embeddings on device; Every diagnoses a cache bug. Includes an attributed OutSystems excerpt from The Cognitive Revolution; sponsored-source limitations disclosed.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-07-211518.mp3" length="10806794" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-10-07</guid>
+      <pubDate>Wed, 07 Oct 2026 21:15:20 +0100</pubDate>
+      <itunes:duration>00:11:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Beam's Efficiency Claim Meets the Real Machine</title>
       <description>Reflection Beam's compute claims and deployment boundaries; METR's patched transcript-viewer demonstration; SemiAnalysis on workload-dependent subscription value. Includes Amin Vahdat on delivered compute.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-06-211532.mp3" length="9446809" type="audio/mpeg"/>
