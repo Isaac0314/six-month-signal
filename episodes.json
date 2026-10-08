@@ -439,5 +439,14 @@
   "bytes": 10806794,
   "duration_sec": 677,
   "published_at": "2026-10-07T21:15:20+01:00"
+ },
+ {
+  "guid": "sms-2026-10-08",
+  "title": "Cheap Tokens, Expensive Answers",
+  "description": "Haiku 5.5's effort and pricing trade-offs; Vals' audit of answer leakage in MiMo coding environments, with a short Periodic Labs voice excerpt; and what an open-model adoption survey can and cannot establish. Sources and evaluation limits are retained in the episode notes.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-08-211600.mp3",
+  "bytes": 10010165,
+  "duration_sec": 628,
+  "published_at": "2026-10-08T21:16:03+01:00"
  }
 ]

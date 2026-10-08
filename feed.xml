@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cheap Tokens, Expensive Answers</title>
+      <description>Haiku 5.5's effort and pricing trade-offs; Vals' audit of answer leakage in MiMo coding environments, with a short Periodic Labs voice excerpt; and what an open-model adoption survey can and cannot establish. Sources and evaluation limits are retained in the episode notes.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-08-211600.mp3" length="10010165" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 21:16:03 +0100</pubDate>
+      <itunes:duration>00:10:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Results are becoming inspectable</title>
       <description>OpenAI publishes a mathematical research collection with uneven verification; Mistral Large 4 adds an API-preview alternative; Google brings multimodal embeddings on device; Every diagnoses a cache bug. Includes an attributed OutSystems excerpt from The Cognitive Revolution; sponsored-source limitations disclosed.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-07-211518.mp3" length="10806794" type="audio/mpeg"/>
