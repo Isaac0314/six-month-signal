@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Research results need a referee</title>
+      <description>Epoch tests end-to-end AI research, a new legal benchmark adds a source-grounding gate, and simulated approval exposes task drift. Plus an original practitioner clip and brief API and policy updates.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-09-211549.mp3" length="10573678" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 21:15:51 +0100</pubDate>
+      <itunes:duration>00:11:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cheap Tokens, Expensive Answers</title>
       <description>Haiku 5.5's effort and pricing trade-offs; Vals' audit of answer leakage in MiMo coding environments, with a short Periodic Labs voice excerpt; and what an open-model adoption survey can and cannot establish. Sources and evaluation limits are retained in the episode notes.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-08-211600.mp3" length="10010165" type="audio/mpeg"/>

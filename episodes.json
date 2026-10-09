@@ -448,5 +448,14 @@
   "bytes": 10010165,
   "duration_sec": 628,
   "published_at": "2026-10-08T21:16:03+01:00"
+ },
+ {
+  "guid": "sms-2026-10-09",
+  "title": "Research results need a referee",
+  "description": "Epoch tests end-to-end AI research, a new legal benchmark adds a source-grounding gate, and simulated approval exposes task drift. Plus an original practitioner clip and brief API and policy updates.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-09-211549.mp3",
+  "bytes": 10573678,
+  "duration_sec": 663,
+  "published_at": "2026-10-09T21:15:51+01:00"
  }
 ]
