@@ -457,5 +457,14 @@
   "bytes": 10573678,
   "duration_sec": 663,
   "published_at": "2026-10-09T21:15:51+01:00"
+ },
+ {
+  "guid": "sms-2026-10-12",
+  "title": "When a Practice Form Becomes a Real Submission",
+  "description": "Anthropic pauses internet-connected evaluations; Humanity’s Sixth Sense exposes visual gaps; TasteVal separates experiment selection from whole-project research; Eric Bigelow explains sampled reasoning paths.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-12-211559.mp3",
+  "bytes": 10801361,
+  "duration_sec": 675,
+  "published_at": "2026-10-12T21:16:02+01:00"
  }
 ]

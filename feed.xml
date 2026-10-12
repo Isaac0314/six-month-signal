@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>When a Practice Form Becomes a Real Submission</title>
+      <description>Anthropic pauses internet-connected evaluations; Humanity’s Sixth Sense exposes visual gaps; TasteVal separates experiment selection from whole-project research; Eric Bigelow explains sampled reasoning paths.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-12-211559.mp3" length="10801361" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-10-12</guid>
+      <pubDate>Mon, 12 Oct 2026 21:16:02 +0100</pubDate>
+      <itunes:duration>00:11:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Research results need a referee</title>
       <description>Epoch tests end-to-end AI research, a new legal benchmark adds a source-grounding gate, and simulated approval exposes task drift. Plus an original practitioner clip and brief API and policy updates.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-09-211549.mp3" length="10573678" type="audio/mpeg"/>
