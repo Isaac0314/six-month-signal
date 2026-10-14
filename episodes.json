@@ -475,5 +475,14 @@
   "bytes": 11078468,
   "duration_sec": 695,
   "published_at": "2026-10-13T21:15:46+01:00"
+ },
+ {
+  "guid": "sms-2026-10-14",
+  "title": "Thirty thousand changes, and who checks them?",
+  "description": "Anthropic rebuilds source control for agent-scale workloads; Google reports an accidental training penalty that hid shortcuts; LangSmith exposes the evidence trade-off in searching long agent traces. Company measurements are distinguished from independent validation.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-14-211552.mp3",
+  "bytes": 10567304,
+  "duration_sec": 660,
+  "published_at": "2026-10-14T21:15:54+01:00"
  }
 ]

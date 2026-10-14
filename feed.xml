@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Thirty thousand changes, and who checks them?</title>
+      <description>Anthropic rebuilds source control for agent-scale workloads; Google reports an accidental training penalty that hid shortcuts; LangSmith exposes the evidence trade-off in searching long agent traces. Company measurements are distinguished from independent validation.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-14-211552.mp3" length="10567304" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 21:15:54 +0100</pubDate>
+      <itunes:duration>00:11:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>More capability, a different bill</title>
       <description>Meta Muse Wonder improves agent scores while measured task costs rise; Google expands Argon access; Perplexity separates durable commits from review; Microsoft distinguishes Maia production from its 2027 capacity plans. Includes a public excerpt from The Circuit.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-13-211544.mp3" length="11078468" type="audio/mpeg"/>
