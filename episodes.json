@@ -484,5 +484,14 @@
   "bytes": 10567304,
   "duration_sec": 660,
   "published_at": "2026-10-14T21:15:54+01:00"
+ },
+ {
+  "guid": "sms-2026-10-15",
+  "title": "Discovery Is Not a Customer Outcome",
+  "description": "Cloudflare and OpenAI expand search discovery; Vals separates perfect-hindsight routing from live savings; Dyna discusses repeat robot deployments. Includes a Jason Ma excerpt and an honestly graded forecast.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-15-211502.mp3",
+  "bytes": 10637783,
+  "duration_sec": 667,
+  "published_at": "2026-10-15T21:15:04+01:00"
  }
 ]

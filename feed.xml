@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Discovery Is Not a Customer Outcome</title>
+      <description>Cloudflare and OpenAI expand search discovery; Vals separates perfect-hindsight routing from live savings; Dyna discusses repeat robot deployments. Includes a Jason Ma excerpt and an honestly graded forecast.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-15-211502.mp3" length="10637783" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 21:15:04 +0100</pubDate>
+      <itunes:duration>00:11:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thirty thousand changes, and who checks them?</title>
       <description>Anthropic rebuilds source control for agent-scale workloads; Google reports an accidental training penalty that hid shortcuts; LangSmith exposes the evidence trade-off in searching long agent traces. Company measurements are distinguished from independent validation.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-14-211552.mp3" length="10567304" type="audio/mpeg"/>
