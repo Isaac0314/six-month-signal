@@ -502,5 +502,14 @@
   "bytes": 9101573,
   "duration_sec": 650,
   "published_at": "2026-10-16T21:15:20+01:00"
+ },
+ {
+  "guid": "sms-2026-10-19",
+  "title": "What a successful request actually costs",
+  "description": "DeepSeek search pricing and Flash comparisons; data-center construction versus usable capacity; Nvidia Vera memory tests; what game benchmarks and an operator lockout do not prove.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-19-211507.mp3",
+  "bytes": 9666237,
+  "duration_sec": 690,
+  "published_at": "2026-10-19T21:15:13+01:00"
  }
 ]
