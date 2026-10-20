@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>A passing test can mean three different things</title>
+      <description>OpenAI legacy-code equivalence tests; HealthBench rankings reshaped by answer length; SF Compute on GPU resale and physical delivery, with an original interview excerpt.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-20-211546.mp3" length="9950031" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 21:15:57 +0100</pubDate>
+      <itunes:duration>00:11:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>What a successful request actually costs</title>
       <description>DeepSeek search pricing and Flash comparisons; data-center construction versus usable capacity; Nvidia Vera memory tests; what game benchmarks and an operator lockout do not prove.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-19-211507.mp3" length="9666237" type="audio/mpeg"/>

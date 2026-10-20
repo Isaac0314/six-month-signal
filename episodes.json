@@ -511,5 +511,14 @@
   "bytes": 9666237,
   "duration_sec": 690,
   "published_at": "2026-10-19T21:15:13+01:00"
+ },
+ {
+  "guid": "sms-2026-10-20",
+  "title": "A passing test can mean three different things",
+  "description": "OpenAI legacy-code equivalence tests; HealthBench rankings reshaped by answer length; SF Compute on GPU resale and physical delivery, with an original interview excerpt.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-20-211546.mp3",
+  "bytes": 9950031,
+  "duration_sec": 710,
+  "published_at": "2026-10-20T21:15:57+01:00"
  }
 ]
