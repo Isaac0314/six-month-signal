@@ -520,5 +520,14 @@
   "bytes": 9950031,
   "duration_sec": 710,
   "published_at": "2026-10-20T21:15:57+01:00"
+ },
+ {
+  "guid": "sms-2026-10-21",
+  "title": "The Open Engine and the Missing Service",
+  "description": "DeepSeek opens DeepInfer but leaves key service infrastructure outside the release. Mistral's Voxtral 3 separates listening, reasoning and speech; Straiker's CyberCartel investigation shows why configured agents are not a measured attack-success rate. Plus Sierra and Stripe's payment-completion denominator. First-party claims distinguished from independent verification.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-21-211542.mp3",
+  "bytes": 10782136,
+  "duration_sec": 673,
+  "published_at": "2026-10-21T21:15:56+01:00"
  }
 ]
