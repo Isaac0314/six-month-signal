@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>What a completed call leaves out</title>
+      <description>Sierra separates voice-agent completion from conversational quality; Perplexity and NVIDIA train teachers with JOLT; Modal reports sandbox demand and explores faster execution. Includes an original Latent Space audio excerpt.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-22-211524.mp3" length="9338922" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 21:15:34 +0100</pubDate>
+      <itunes:duration>00:11:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Open Engine and the Missing Service</title>
       <description>DeepSeek opens DeepInfer but leaves key service infrastructure outside the release. Mistral's Voxtral 3 separates listening, reasoning and speech; Straiker's CyberCartel investigation shows why configured agents are not a measured attack-success rate. Plus Sierra and Stripe's payment-completion denominator. First-party claims distinguished from independent verification.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-21-211542.mp3" length="10782136" type="audio/mpeg"/>

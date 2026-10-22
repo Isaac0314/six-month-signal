@@ -529,5 +529,14 @@
   "bytes": 10782136,
   "duration_sec": 673,
   "published_at": "2026-10-21T21:15:56+01:00"
+ },
+ {
+  "guid": "sms-2026-10-22",
+  "title": "What a completed call leaves out",
+  "description": "Sierra separates voice-agent completion from conversational quality; Perplexity and NVIDIA train teachers with JOLT; Modal reports sandbox demand and explores faster execution. Includes an original Latent Space audio excerpt.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-22-211524.mp3",
+  "bytes": 9338922,
+  "duration_sec": 667,
+  "published_at": "2026-10-22T21:15:34+01:00"
  }
 ]
