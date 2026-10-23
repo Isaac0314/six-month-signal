@@ -538,5 +538,14 @@
   "bytes": 9338922,
   "duration_sec": 667,
   "published_at": "2026-10-22T21:15:34+01:00"
+ },
+ {
+  "guid": "sms-2026-10-23",
+  "title": "When the Monitor Never Runs",
+  "description": "METR separates monitoring eligibility from actual coverage; Microsoft tests sequential diagnosis; Agent Skills changes governance. Includes a No Priors excerpt and Friday forecast accountability.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-23-211602.mp3",
+  "bytes": 9970877,
+  "duration_sec": 712,
+  "published_at": "2026-10-23T21:16:18+01:00"
  }
 ]

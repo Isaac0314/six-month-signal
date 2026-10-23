@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>When the Monitor Never Runs</title>
+      <description>METR separates monitoring eligibility from actual coverage; Microsoft tests sequential diagnosis; Agent Skills changes governance. Includes a No Priors excerpt and Friday forecast accountability.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-23-211602.mp3" length="9970877" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 21:16:18 +0100</pubDate>
+      <itunes:duration>00:11:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>What a completed call leaves out</title>
       <description>Sierra separates voice-agent completion from conversational quality; Perplexity and NVIDIA train teachers with JOLT; Modal reports sandbox demand and explores faster execution. Includes an original Latent Space audio excerpt.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-22-211524.mp3" length="9338922" type="audio/mpeg"/>
