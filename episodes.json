@@ -547,5 +547,14 @@
   "bytes": 9970877,
   "duration_sec": 712,
   "published_at": "2026-10-23T21:16:18+01:00"
+ },
+ {
+  "guid": "sms-2026-10-26",
+  "title": "Stronger agents, cheaper tokens, unfinished work",
+  "description": "Kimi K3.1 Pro and GPT-6.1 Terra sharpen the capability and price comparison. Epoch shows why partial rubric success is not completed work; Ollama speech introduces platform and licensing boundaries. Includes a brief Anthropic filing update and original public podcast excerpt.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-26-211517.mp3",
+  "bytes": 10516157,
+  "duration_sec": 751,
+  "published_at": "2026-10-26T21:15:26+00:00"
  }
 ]

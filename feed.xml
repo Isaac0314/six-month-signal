@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Stronger agents, cheaper tokens, unfinished work</title>
+      <description>Kimi K3.1 Pro and GPT-6.1 Terra sharpen the capability and price comparison. Epoch shows why partial rubric success is not completed work; Ollama speech introduces platform and licensing boundaries. Includes a brief Anthropic filing update and original public podcast excerpt.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-26-211517.mp3" length="10516157" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 21:15:26 +0000</pubDate>
+      <itunes:duration>00:12:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>When the Monitor Never Runs</title>
       <description>METR separates monitoring eligibility from actual coverage; Microsoft tests sequential diagnosis; Agent Skills changes governance. Includes a No Priors excerpt and Friday forecast accountability.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-23-211602.mp3" length="9970877" type="audio/mpeg"/>
