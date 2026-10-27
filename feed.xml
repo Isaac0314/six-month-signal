@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The CPU bill behind the model</title>
+      <description>Anthropic reports CPU savings from a Rust API port; Databricks removes a retrieval synchronization layer; an agent-citation experiment tests article descriptions. Includes a public operator clip and evidence limits.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-27-211526.mp3" length="9488501" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 21:15:38 +0000</pubDate>
+      <itunes:duration>00:11:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Stronger agents, cheaper tokens, unfinished work</title>
       <description>Kimi K3.1 Pro and GPT-6.1 Terra sharpen the capability and price comparison. Epoch shows why partial rubric success is not completed work; Ollama speech introduces platform and licensing boundaries. Includes a brief Anthropic filing update and original public podcast excerpt.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-26-211517.mp3" length="10516157" type="audio/mpeg"/>

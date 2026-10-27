@@ -556,5 +556,14 @@
   "bytes": 10516157,
   "duration_sec": 751,
   "published_at": "2026-10-26T21:15:26+00:00"
+ },
+ {
+  "guid": "sms-2026-10-27",
+  "title": "The CPU bill behind the model",
+  "description": "Anthropic reports CPU savings from a Rust API port; Databricks removes a retrieval synchronization layer; an agent-citation experiment tests article descriptions. Includes a public operator clip and evidence limits.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-27-211526.mp3",
+  "bytes": 9488501,
+  "duration_sec": 677,
+  "published_at": "2026-10-27T21:15:38+00:00"
  }
 ]
