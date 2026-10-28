@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Carbon reaches the frontier, access does not</title>
+      <description>Gemini4 Carbon measured gains and restricted rollout; Cloudflare historical cache exposure; Supabase declarative database state. Includes an original public interview excerpt.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-28-211506.mp3" length="9783266" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-10-28</guid>
+      <pubDate>Wed, 28 Oct 2026 21:15:16 +0000</pubDate>
+      <itunes:duration>00:11:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The CPU bill behind the model</title>
       <description>Anthropic reports CPU savings from a Rust API port; Databricks removes a retrieval synchronization layer; an agent-citation experiment tests article descriptions. Includes a public operator clip and evidence limits.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-27-211526.mp3" length="9488501" type="audio/mpeg"/>
