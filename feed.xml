@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Cheaper orchestration, harder acceptance</title>
+      <description>GitHub Fusion and Microsoft Foundry, DecoyCount visual-reasoning research, and a legal-agent rollout: measured system cost versus accepted work. Includes a public No Priors/Serval audio excerpt.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-29-211513.mp3" length="9036111" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-10-29</guid>
+      <pubDate>Thu, 29 Oct 2026 21:15:28 +0000</pubDate>
+      <itunes:duration>00:10:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Carbon reaches the frontier, access does not</title>
       <description>Gemini4 Carbon measured gains and restricted rollout; Cloudflare historical cache exposure; Supabase declarative database state. Includes an original public interview excerpt.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-28-211506.mp3" length="9783266" type="audio/mpeg"/>

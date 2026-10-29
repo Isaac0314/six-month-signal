@@ -574,5 +574,14 @@
   "bytes": 9783266,
   "duration_sec": 698,
   "published_at": "2026-10-28T21:15:16+00:00"
+ },
+ {
+  "guid": "sms-2026-10-29",
+  "title": "Cheaper orchestration, harder acceptance",
+  "description": "GitHub Fusion and Microsoft Foundry, DecoyCount visual-reasoning research, and a legal-agent rollout: measured system cost versus accepted work. Includes a public No Priors/Serval audio excerpt.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-29-211513.mp3",
+  "bytes": 9036111,
+  "duration_sec": 645,
+  "published_at": "2026-10-29T21:15:28+00:00"
  }
 ]
