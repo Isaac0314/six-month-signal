@@ -583,5 +583,14 @@
   "bytes": 9036111,
   "duration_sec": 645,
   "published_at": "2026-10-29T21:15:28+00:00"
+ },
+ {
+  "guid": "sms-2026-10-30",
+  "title": "The fix has not reached the user",
+  "description": "Epoch’s browser patch-gap results, Mistral Large4 released weights and hosted pricing, a Qwen3 voice recording-domain test, and GitHub’s access-versus-usage offer. Includes RAND original audio and the Friday forecast scoreboard.",
+  "mp3_url": "https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-30-211507.mp3",
+  "bytes": 10757057,
+  "duration_sec": 672,
+  "published_at": "2026-10-30T21:15:15+00:00"
  }
 ]

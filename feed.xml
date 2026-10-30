@@ -15,6 +15,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The fix has not reached the user</title>
+      <description>Epoch’s browser patch-gap results, Mistral Large4 released weights and hosted pricing, a Qwen3 voice recording-domain test, and GitHub’s access-versus-usage offer. Includes RAND original audio and the Friday forecast scoreboard.</description>
+      <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-30-211507.mp3" length="10757057" type="audio/mpeg"/>
+      <guid isPermaLink="false">sms-2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 21:15:15 +0000</pubDate>
+      <itunes:duration>00:11:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Cheaper orchestration, harder acceptance</title>
       <description>GitHub Fusion and Microsoft Foundry, DecoyCount visual-reasoning research, and a legal-agent rollout: measured system cost versus accepted work. Includes a public No Priors/Serval audio excerpt.</description>
       <enclosure url="https://github.com/Isaac0314/six-month-signal/releases/download/episodes/2026-10-29-211513.mp3" length="9036111" type="audio/mpeg"/>
